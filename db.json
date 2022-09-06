@@ -1,0 +1,29 @@
+{
+    "links": {
+      "self": "http://example.com/articles",
+      "next": "http://example.com/articles?page[offset]=2",
+      "last": "http://example.com/articles?page[offset]=10"
+    },
+    "data": [
+        {
+          "type": "articles",
+          "id": "1"
+        },
+        {
+          "type": "articles",
+          "id": "1"
+        },
+        {
+          "type": "articles",
+          "id": "1"
+        },
+        {
+          "type": "articles",
+          "id": "1"
+        },
+        {
+          "type": "articles",
+          "id": "1"
+        }
+    ]
+  }
