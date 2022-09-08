@@ -1,29 +1,66 @@
 {
-    "links": {
-      "self": "http://example.com/articles",
-      "next": "http://example.com/articles?page[offset]=2",
-      "last": "http://example.com/articles?page[offset]=10"
-    },
     "data": [
         {
-          "type": "articles",
-          "id": "1"
+          "type": "red-white-candy",
+          "id": "1",
+          "picture": "https://i.pinimg.com/originals/db/e5/0f/dbe50f4b67a2f0d82905e24f62a1c773.png"
         },
         {
-          "type": "articles",
-          "id": "1"
+          "type": "choclete-ball-candy",
+          "id": "2",
+          "picture": "https://us.v-cdn.net/6030983/uploads/editor/5j/jd9bpmu7ve4x.png"
         },
         {
-          "type": "articles",
-          "id": "1"
+          "type": "blue-candy",
+          "id": "3",
+          "picture": "https://static.wikia.nocookie.net/candy-crush-saga/images/2/2d/BluecandyHTML5.png/revision/latest?cb=20211029175618"
         },
         {
-          "type": "articles",
-          "id": "1"
+          "type": "purple-candy",
+          "id": "4",
+          "picture": "https://static.wikia.nocookie.net/candy-crush-saga/images/e/eb/PurplecandyHTML5.png/revision/latest?cb=20211029175614"
+
         },
         {
-          "type": "articles",
-          "id": "1"
+          "type": "pink-white-candy",
+          "id": "5",
+          "picture": "https://www.clipartmax.com/png/full/18-182217_inshv-%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC-%C2%AB%D0%BF%D1%80%D0%B8%D0%BC%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-crush-of-candy%C2%BB-%D0%BD%D0%B0-%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-dulces-de-candy-crush.png"
+        },
+        {
+          "type": "win-animated-girl",
+          "id": "6",
+          "picture": "https://i.pinimg.com/originals/d9/47/01/d947015873fef71db22d56c4e37c661e.gif"
+        },
+        {
+          "type": "lose-animation",
+          "id": "7",
+          "picture": "https://miro.medium.com/max/1300/1*lqAiFhyqCMYDcrn12fb9RQ.gif"
+        },
+        {
+          "type": "gift-animation",
+          "id": "8",
+          "picture": "https://media4.giphy.com/media/L0rqYVQ2zpcjH99Ywe/giphy.gif?cid=790b7611daabd530184196bbce9dc6da3d57e2e08bac06e5&rid=giphy.gif&ct=s"
+        },
+        {
+          "type": "all-players-image",
+          "id": "9",
+          "picture": "https://cdnb.artstation.com/p/assets/images/images/034/768/495/4k/christian-haniszewski-candycrush-groupposes-03-e1561488604825.jpg?1613160038"
+        },
+        {
+          "type": "opening-background",
+          "id": "10",
+          "picture": "https://cdnb.artstation.com/p/assets/images/images/034/768/495/4k/christian-haniszewski-candycrush-groupposes-03-e1561488604825.jpg?1613160038&dl=1"
+        },
+        {
+          "type": "game-mode-background",
+          "id": "11",
+          "picture": "https://play-lh.googleusercontent.com/0B34qL3llmQFZlo7TQ6IiY9zyayuWdMmlxLioYb7sz46Ktt50jl9AZvcWKpciJzZ0_Zw"
+        },
+        {
+          "type": "logo",
+          "id": "10",
+          "picture": "https://banner2.cleanpng.com/20180331/okq/kisspng-candy-crush-saga-candy-crush-soda-saga-bubble-witc-candy-crush-5abf5175113ea5.2360054915224876690707.jpg"
         }
     ]
   }
+
